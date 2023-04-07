@@ -1,4 +1,4 @@
-const key = "U0pZbteybkYkIiWehVdcp03hYj92BvSWeb5UMul5"
+const key = ""
 
 const api_url = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key="+key+""
 async function getMars() {
