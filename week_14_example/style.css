@@ -1,0 +1,6 @@
+canvas {
+    left:calc(50%-200px);
+    top:calc(50vh-200px); 
+    position:relative; 
+}
+
